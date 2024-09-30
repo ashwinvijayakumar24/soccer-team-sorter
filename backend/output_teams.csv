@@ -1,0 +1,501 @@
+Last Name,First Name,Gender,Birthday,Skill Level,Preferred Practice Location,School,Parent HC,Parent AC,Age Group,Team
+Jackson,James,F,2020-06-14,Advanced,Blue Ridge Soccer Park (South Houston),Redwood Preparatory,N,Y,u-5,1
+Smith,Lisa,F,2020-04-10,Advanced,Hwy 6 South,Willow Elementary,N,Y,u-5,1
+Miller,Susan,F,2020-05-07,Average,Silverlake/East 288,Maple Middle School,N,N,u-5,1
+Smith,Linda,M,2020-03-21,Average,Blue Ridge Soccer Park (South Houston),Poplar Academy,N,N,u-5,1
+Lopez,Jennifer,M,2020-02-27,Advanced,Far East,Sycamore Elementary,N,Y,u-5,1
+Thomas,Thomas,M,2020-08-26,Advanced,Silverlake/East 288,Cedar Academy,N,N,u-5,1
+Martinez,Mary,M,2019-09-10,Average,West 288,Willow Elementary,N,N,u-5,1
+Moore,Patricia,F,2020-02-21,Beginner,Far East,Magnolia High,N,N,u-5,2
+Martin,Robert,F,2020-06-01,Very Good,Silverlake/East 288,Cypress School,N,Y,u-5,2
+Gonzalez,Susan,F,2020-03-10,Very Good,West 288,Redwood Preparatory,N,N,u-5,2
+Moore,Michael,M,2019-12-17,Average,Blue Ridge Soccer Park (South Houston),Spruce High,Y,N,u-5,2
+Rodriguez,Patricia,M,2019-10-09,Very Good,Hwy 6 South,Sycamore Elementary,N,N,u-5,2
+Johnson,Elizabeth,M,2019-11-07,Advanced,Silverlake/East 288,Magnolia High,N,N,u-5,2
+Miller,Patricia,M,2020-03-12,Average,West 288,Willow Elementary,N,N,u-5,2
+Gonzalez,Richard,F,2020-01-01,Advanced,Far East,Cypress School,N,Y,u-5,3
+Martinez,Richard,F,2020-08-19,Very Good,Silverlake/East 288,Maple Middle School,N,N,u-5,3
+Taylor,Barbara,F,2019-12-10,Beginner,West 288,Aspen Charter School,N,N,u-5,3
+Smith,Dorothy,M,2020-06-21,Advanced,Blue Ridge Soccer Park (South Houston),Elm Middle School,N,N,u-5,3
+Martinez,Barbara,M,2020-04-14,Very Good,Hwy 6 South,Willow Elementary,N,N,u-5,3
+Garcia,Jennifer,M,2020-02-07,Very Good,West 288,Magnolia High,Y,N,u-5,3
+Garcia,Patricia,M,2019-10-07,Advanced,West 288,Maple Middle School,N,N,u-5,3
+Martin,Mary,F,2020-04-16,Very Good,Hwy 6 South,Birch School,N,Y,u-5,4
+Smith,John,F,2020-02-11,Very Good,Silverlake/East 288,Oak Elementary,N,N,u-5,4
+Anderson,Robert,F,2019-09-01,Beginner,West 288,Magnolia High,Y,N,u-5,4
+Lopez,Robert,M,2019-11-11,Very Good,Far East,Sycamore Elementary,N,N,u-5,4
+Thomas,Margaret,M,2020-04-13,Advanced,Hwy 6 South,Birch School,N,N,u-5,4
+Jackson,Barbara,M,2019-09-07,Very Good,West 288,Sycamore Elementary,N,Y,u-5,4
+Martinez,Barbara,F,2019-11-13,Average,Hwy 6 South,Cedar Academy,N,N,u-5,5
+Rodriguez,Elizabeth,F,2020-02-16,Beginner,Silverlake/East 288,Poplar Academy,N,Y,u-5,5
+Miller,Margaret,F,2020-05-16,Beginner,West 288,Redwood Preparatory,N,Y,u-5,5
+Brown,Thomas,M,2020-07-25,Average,Far East,Elm Middle School,N,N,u-5,5
+Moore,Elizabeth,M,2019-12-02,Very Good,Silverlake/East 288,Redwood Preparatory,N,Y,u-5,5
+Thomas,David,M,2020-09-11,Beginner,West 288,Willow Elementary,N,N,u-5,5
+Wilson,Susan,F,2020-05-22,Average,Hwy 6 South,Oak Elementary,Y,N,u-5,6
+Jackson,Patricia,F,2020-05-14,Beginner,Silverlake/East 288,Spruce High,N,N,u-5,6
+Anderson,Patricia,F,2020-03-30,Advanced,West 288,Cedar Academy,Y,N,u-5,6
+Martin,Barbara,M,2020-01-02,Average,Far East,Willow Elementary,N,N,u-5,6
+Williams,Mary,M,2020-03-30,Very Good,Silverlake/East 288,Spruce High,N,Y,u-5,6
+Wilson,Robert,M,2019-11-22,Average,West 288,Oak Elementary,N,Y,u-5,6
+Anderson,Susan,F,2019-05-21,Beginner,Silverlake/East 288,Aspen Charter School,N,N,u-6,1
+Moore,Thomas,F,2019-03-25,Beginner,Silverlake/East 288,Cypress School,N,Y,u-6,1
+Rodriguez,Joseph,F,2018-12-22,Very Good,Hwy 6 South,Maple Middle School,N,N,u-6,1
+Rodriguez,Barbara,F,2018-10-20,Beginner,Silverlake/East 288,Willow Elementary,N,N,u-6,1
+Garcia,Thomas,M,2018-09-11,Average,West 288,Cedar Academy,N,N,u-6,1
+Miller,Linda,M,2019-08-31,Very Good,Silverlake/East 288,Magnolia High,Y,N,u-6,1
+Hernandez,Richard,M,2018-11-08,Very Good,West 288,Redwood Preparatory,Y,N,u-6,1
+Anderson,David,M,2019-04-11,Advanced,West 288,Spruce High,N,N,u-6,1
+Garcia,Dorothy,F,2019-05-20,Average,Silverlake/East 288,Cedar Academy,N,N,u-6,2
+Rodriguez,John,F,2019-05-16,Advanced,Silverlake/East 288,Cypress School,N,N,u-6,2
+Miller,Susan,F,2019-07-08,Average,West 288,Pine High School,Y,N,u-6,2
+Johnson,John,M,2019-07-10,Average,West 288,Aspen Charter School,N,N,u-6,2
+Miller,Dorothy,M,2018-10-28,Very Good,West 288,Chestnut Middle School,Y,N,u-6,2
+Martinez,David,M,2018-11-09,Advanced,West 288,Maple Middle School,N,N,u-6,2
+Garcia,Jennifer,M,2018-11-07,Beginner,Far East,Redwood Preparatory,Y,N,u-6,2
+Jackson,James,M,2019-05-22,Beginner,Hwy 6 South,Willow Elementary,N,Y,u-6,2
+Jackson,Linda,F,2018-12-30,Beginner,Silverlake/East 288,Chestnut Middle School,N,N,u-6,3
+Jones,Joseph,F,2018-09-01,Very Good,Hwy 6 South,Elm Middle School,N,N,u-6,3
+Miller,Thomas,F,2018-12-07,Average,West 288,Pine High School,N,N,u-6,3
+Lopez,Thomas,M,2019-07-09,Very Good,Silverlake/East 288,Birch School,N,N,u-6,3
+Martinez,James,M,2018-11-12,Average,Silverlake/East 288,Cypress School,Y,N,u-6,3
+Brown,Mary,M,2019-02-09,Beginner,West 288,Oak Elementary,Y,N,u-6,3
+Miller,Charles,M,2018-09-29,Advanced,West 288,Redwood Preparatory,N,N,u-6,3
+Thomas,Richard,M,2019-03-16,Advanced,Hwy 6 South,Willow Elementary,N,N,u-6,3
+Anderson,Susan,F,2019-03-10,Average,Blue Ridge Soccer Park (South Houston),Chestnut Middle School,N,N,u-6,4
+Martin,William,F,2019-04-27,Beginner,West 288,Elm Middle School,N,N,u-6,4
+Williams,Dorothy,F,2019-05-23,Advanced,West 288,Pine High School,N,N,u-6,4
+Wilson,John,M,2019-02-15,Beginner,Silverlake/East 288,Birch School,N,Y,u-6,4
+Martinez,Dorothy,M,2018-09-05,Very Good,West 288,Elm Middle School,N,N,u-6,4
+Miller,Jennifer,M,2019-04-24,Average,Silverlake/East 288,Oak Elementary,N,N,u-6,4
+Anderson,Patricia,M,2019-01-11,Advanced,West 288,Redwood Preparatory,N,N,u-6,4
+Gonzalez,Linda,F,2019-04-18,Average,Far East,Chestnut Middle School,N,N,u-6,5
+Thomas,John,F,2019-06-29,Advanced,Far East,Elm Middle School,Y,N,u-6,5
+Hernandez,James,F,2018-11-05,Advanced,Blue Ridge Soccer Park (South Houston),Spruce High,N,N,u-6,5
+Miller,Patricia,M,2019-04-13,Average,Far East,Birch School,N,N,u-6,5
+Moore,Margaret,M,2018-11-18,Beginner,Silverlake/East 288,Elm Middle School,N,N,u-6,5
+Taylor,Richard,M,2019-05-16,Average,Blue Ridge Soccer Park (South Houston),Pine High School,Y,N,u-6,5
+Smith,Linda,M,2018-11-18,Very Good,Silverlake/East 288,Spruce High,N,N,u-6,5
+Martin,Linda,F,2018-11-16,Average,West 288,Chestnut Middle School,N,N,u-6,6
+Martin,William,F,2019-04-19,Average,West 288,Magnolia High,N,N,u-6,6
+Miller,David,F,2019-08-17,Beginner,Blue Ridge Soccer Park (South Houston),Sycamore Elementary,N,N,u-6,6
+Taylor,Charles,M,2019-05-28,Beginner,Silverlake/East 288,Cedar Academy,N,N,u-6,6
+Davis,David,M,2018-12-27,Beginner,West 288,Elm Middle School,N,N,u-6,6
+Brown,Susan,M,2019-06-30,Very Good,Silverlake/East 288,Poplar Academy,N,N,u-6,6
+Brown,Elizabeth,M,2019-01-08,Very Good,West 288,Spruce High,Y,N,u-6,6
+Moore,Patricia,M,2017-03-18,Advanced,West 288,Aspen Charter School,N,N,u-8,1
+Hernandez,John,M,2016-10-02,Advanced,Far East,Birch School,Y,N,u-8,1
+Miller,Robert,M,2017-04-27,Advanced,Silverlake/East 288,Cedar Academy,N,Y,u-8,1
+Hernandez,Elizabeth,M,2018-05-29,Beginner,West 288,Magnolia High,N,N,u-8,1
+Martin,Mary,M,2018-05-15,Average,Hwy 6 South,Oak Elementary,N,Y,u-8,1
+Martinez,Thomas,M,2018-02-09,Beginner,Hwy 6 South,Pine High School,N,N,u-8,1
+Miller,Jennifer,M,2016-11-05,Beginner,Blue Ridge Soccer Park (South Houston),Redwood Preparatory,N,N,u-8,1
+Martinez,Richard,M,2017-06-15,Beginner,Silverlake/East 288,Spruce High,N,N,u-8,1
+Johnson,James,M,2016-09-23,Advanced,West 288,Sycamore Elementary,N,N,u-8,1
+Lopez,Dorothy,M,2018-08-09,Advanced,West 288,Aspen Charter School,N,N,u-8,2
+Anderson,Barbara,M,2017-08-23,Very Good,West 288,Cedar Academy,N,N,u-8,2
+Jackson,David,M,2017-01-13,Very Good,West 288,Chestnut Middle School,N,N,u-8,2
+Lopez,Robert,M,2017-02-07,Beginner,West 288,Maple Middle School,N,N,u-8,2
+Smith,Richard,M,2017-01-01,Average,West 288,Oak Elementary,N,N,u-8,2
+Rodriguez,Elizabeth,M,2017-08-30,Average,Hwy 6 South,Pine High School,N,N,u-8,2
+Williams,Thomas,M,2016-09-06,Advanced,Blue Ridge Soccer Park (South Houston),Redwood Preparatory,N,N,u-8,2
+Johnson,Linda,M,2018-02-15,Advanced,West 288,Spruce High,N,N,u-8,2
+Lopez,Charles,M,2017-03-23,Very Good,Hwy 6 South,Willow Elementary,N,N,u-8,2
+Williams,Joseph,M,2016-10-11,Very Good,West 288,Birch School,Y,N,u-8,3
+Martin,Richard,M,2018-07-27,Beginner,Hwy 6 South,Cedar Academy,N,N,u-8,3
+Gonzalez,Patricia,M,2017-02-27,Very Good,Far East,Elm Middle School,N,Y,u-8,3
+Davis,David,M,2017-05-27,Advanced,Blue Ridge Soccer Park (South Houston),Maple Middle School,N,N,u-8,3
+Davis,Dorothy,M,2017-02-01,Advanced,Silverlake/East 288,Oak Elementary,N,N,u-8,3
+Hernandez,David,M,2017-01-26,Average,West 288,Pine High School,Y,N,u-8,3
+Rodriguez,Margaret,M,2017-08-09,Advanced,Silverlake/East 288,Redwood Preparatory,N,N,u-8,3
+Thomas,Robert,M,2018-07-02,Advanced,West 288,Spruce High,N,N,u-8,3
+Garcia,Patricia,M,2018-08-16,Beginner,Hwy 6 South,Willow Elementary,N,N,u-8,3
+Gonzalez,Richard,M,2017-03-04,Average,West 288,Birch School,N,N,u-8,4
+Rodriguez,Joseph,M,2018-07-16,Beginner,West 288,Cedar Academy,N,N,u-8,4
+Thomas,Thomas,M,2018-04-16,Very Good,West 288,Elm Middle School,N,N,u-8,4
+Jackson,William,M,2017-06-14,Advanced,West 288,Maple Middle School,N,N,u-8,4
+Johnson,Linda,M,2018-01-07,Advanced,Silverlake/East 288,Oak Elementary,N,N,u-8,4
+Brown,Barbara,M,2017-08-31,Advanced,Blue Ridge Soccer Park (South Houston),Poplar Academy,N,N,u-8,4
+Davis,Margaret,M,2018-04-30,Advanced,Silverlake/East 288,Redwood Preparatory,N,N,u-8,4
+Smith,Charles,M,2016-11-21,Advanced,West 288,Sycamore Elementary,Y,N,u-8,4
+Anderson,Dorothy,M,2017-09-30,Advanced,West 288,Willow Elementary,N,N,u-8,4
+Rodriguez,Lisa,F,2018-06-16,Very Good,Silverlake/East 288,Aspen Charter School,N,N,u-8,5
+Martin,William,F,2017-03-26,Advanced,Silverlake/East 288,Birch School,N,N,u-8,5
+Miller,Robert,F,2017-01-24,Beginner,West 288,Chestnut Middle School,Y,N,u-8,5
+Rodriguez,Jennifer,F,2017-05-15,Advanced,West 288,Chestnut Middle School,N,Y,u-8,5
+Gonzalez,Charles,F,2017-09-16,Very Good,Blue Ridge Soccer Park (South Houston),Elm Middle School,N,N,u-8,5
+Gonzalez,Linda,F,2017-08-17,Average,Silverlake/East 288,Maple Middle School,Y,Y,u-8,5
+Wilson,Margaret,F,2016-10-29,Very Good,Silverlake/East 288,Pine High School,N,N,u-8,5
+Smith,William,F,2018-05-17,Beginner,Hwy 6 South,Redwood Preparatory,N,N,u-8,5
+Garcia,Mary,F,2018-03-02,Very Good,West 288,Spruce High,N,N,u-8,5
+Williams,Mary,F,2018-02-15,Average,West 288,Sycamore Elementary,N,Y,u-8,5
+Davis,John,F,2016-12-21,Beginner,Blue Ridge Soccer Park (South Houston),Aspen Charter School,N,N,u-8,6
+Thomas,Robert,F,2017-09-02,Beginner,West 288,Cedar Academy,N,N,u-8,6
+Hernandez,Jennifer,F,2017-05-28,Average,Silverlake/East 288,Chestnut Middle School,Y,N,u-8,6
+Brown,Patricia,F,2017-05-17,Beginner,Hwy 6 South,Cypress School,N,N,u-8,6
+Anderson,Michael,F,2017-11-23,Very Good,Silverlake/East 288,Elm Middle School,N,Y,u-8,6
+Thomas,Dorothy,F,2018-03-24,Very Good,Silverlake/East 288,Oak Elementary,N,Y,u-8,6
+Jones,William,F,2016-12-04,Average,West 288,Pine High School,N,N,u-8,6
+Lopez,Dorothy,F,2016-09-10,Beginner,Silverlake/East 288,Redwood Preparatory,Y,N,u-8,6
+Martin,Elizabeth,F,2017-10-08,Beginner,Silverlake/East 288,Spruce High,N,N,u-8,6
+Anderson,Margaret,F,2017-03-17,Very Good,Hwy 6 South,Willow Elementary,N,N,u-8,6
+Brown,Patricia,F,2017-06-26,Advanced,Silverlake/East 288,Aspen Charter School,N,N,u-8,7
+Rodriguez,Lisa,F,2018-03-01,Very Good,Silverlake/East 288,Chestnut Middle School,N,Y,u-8,7
+Thomas,Barbara,F,2017-07-01,Average,West 288,Chestnut Middle School,N,N,u-8,7
+Smith,Mary,F,2016-10-07,Beginner,West 288,Cypress School,N,N,u-8,7
+Martin,Thomas,F,2017-07-20,Advanced,Silverlake/East 288,Magnolia High,N,N,u-8,7
+Rodriguez,Barbara,F,2018-04-12,Average,West 288,Oak Elementary,N,N,u-8,7
+Hernandez,Elizabeth,F,2017-03-25,Very Good,Silverlake/East 288,Poplar Academy,N,N,u-8,7
+Jackson,Susan,F,2017-12-12,Average,West 288,Redwood Preparatory,N,N,u-8,7
+Davis,Dorothy,F,2017-12-27,Average,West 288,Spruce High,N,N,u-8,7
+Jones,Lisa,F,2018-02-01,Beginner,Far East,Willow Elementary,N,N,u-8,7
+Wilson,Michael,F,2017-10-02,Beginner,Far East,Birch School,Y,N,u-8,8
+Thomas,Patricia,F,2017-08-14,Beginner,Far East,Chestnut Middle School,N,N,u-8,8
+Jackson,Mary,F,2018-06-05,Advanced,Silverlake/East 288,Chestnut Middle School,N,N,u-8,8
+Rodriguez,Michael,F,2017-08-22,Beginner,West 288,Cypress School,N,N,u-8,8
+Smith,Lisa,F,2018-06-14,Very Good,Silverlake/East 288,Maple Middle School,Y,Y,u-8,8
+Garcia,Elizabeth,F,2017-06-25,Advanced,Hwy 6 South,Oak Elementary,N,N,u-8,8
+Thomas,Jennifer,F,2018-04-14,Very Good,Silverlake/East 288,Poplar Academy,N,N,u-8,8
+Thomas,Jennifer,F,2018-01-27,Very Good,Silverlake/East 288,Spruce High,Y,N,u-8,8
+Moore,Margaret,F,2018-04-22,Beginner,Far East,Sycamore Elementary,N,N,u-8,8
+Martinez,Elizabeth,F,2018-07-01,Advanced,West 288,Willow Elementary,Y,N,u-8,8
+Rodriguez,Patricia,M,2015-08-29,Very Good,West 288,Aspen Charter School,N,N,u-10,1
+Lopez,David,M,2016-04-28,Advanced,Silverlake/East 288,Birch School,N,N,u-10,1
+Anderson,Jennifer,M,2015-01-24,Very Good,Far East,Chestnut Middle School,N,N,u-10,1
+Johnson,Charles,M,2015-12-19,Beginner,Silverlake/East 288,Elm Middle School,N,N,u-10,1
+Lopez,John,M,2014-09-14,Beginner,Far East,Magnolia High,Y,Y,u-10,1
+Miller,Robert,M,2015-11-04,Advanced,West 288,Maple Middle School,Y,N,u-10,1
+Davis,Susan,M,2015-04-11,Average,Far East,Pine High School,N,N,u-10,1
+Brown,Robert,M,2015-01-21,Beginner,Silverlake/East 288,Poplar Academy,N,Y,u-10,1
+Gonzalez,Susan,M,2016-05-23,Advanced,Far East,Redwood Preparatory,N,N,u-10,1
+Davis,Susan,M,2015-11-23,Very Good,West 288,Sycamore Elementary,N,N,u-10,1
+Lopez,Margaret,M,2014-10-28,Very Good,Silverlake/East 288,Willow Elementary,N,N,u-10,1
+Lopez,Susan,M,2015-09-09,Advanced,Silverlake/East 288,Aspen Charter School,N,N,u-10,2
+Moore,Margaret,M,2015-04-09,Advanced,West 288,Birch School,N,N,u-10,2
+Thomas,Susan,M,2014-09-21,Very Good,West 288,Chestnut Middle School,N,N,u-10,2
+Martin,Lisa,M,2016-08-20,Average,Silverlake/East 288,Elm Middle School,N,N,u-10,2
+Lopez,David,M,2015-09-08,Average,West 288,Magnolia High,N,N,u-10,2
+Jackson,David,M,2015-07-18,Average,Silverlake/East 288,Oak Elementary,Y,Y,u-10,2
+Lopez,Jennifer,M,2016-04-20,Average,Hwy 6 South,Pine High School,N,N,u-10,2
+Lopez,Charles,M,2015-09-02,Average,Silverlake/East 288,Poplar Academy,N,N,u-10,2
+Martin,David,M,2016-07-17,Very Good,Silverlake/East 288,Spruce High,Y,N,u-10,2
+Moore,Elizabeth,M,2016-06-16,Beginner,Blue Ridge Soccer Park (South Houston),Sycamore Elementary,N,N,u-10,2
+Anderson,James,M,2015-08-11,Beginner,Blue Ridge Soccer Park (South Houston),Willow Elementary,Y,N,u-10,2
+Taylor,Michael,M,2015-02-10,Beginner,West 288,Birch School,N,N,u-10,3
+Miller,Margaret,M,2015-09-27,Very Good,Silverlake/East 288,Cedar Academy,N,N,u-10,3
+Gonzalez,Michael,M,2014-12-28,Average,Silverlake/East 288,Chestnut Middle School,N,Y,u-10,3
+Jackson,Elizabeth,M,2015-01-25,Advanced,West 288,Elm Middle School,N,N,u-10,3
+Hernandez,Elizabeth,M,2015-01-20,Advanced,West 288,Magnolia High,N,N,u-10,3
+Wilson,Elizabeth,M,2015-02-13,Advanced,Silverlake/East 288,Oak Elementary,N,N,u-10,3
+Garcia,Patricia,M,2015-03-14,Average,Silverlake/East 288,Pine High School,N,N,u-10,3
+Smith,William,M,2016-05-30,Advanced,West 288,Poplar Academy,N,N,u-10,3
+Davis,Richard,M,2015-12-20,Beginner,West 288,Spruce High,N,Y,u-10,3
+Jackson,Robert,M,2014-11-07,Beginner,West 288,Sycamore Elementary,N,N,u-10,3
+Thomas,Jennifer,M,2016-01-16,Advanced,West 288,Willow Elementary,N,N,u-10,3
+Jackson,Margaret,M,2016-01-14,Advanced,Silverlake/East 288,Birch School,N,N,u-10,4
+Hernandez,Richard,M,2014-11-11,Beginner,Silverlake/East 288,Cedar Academy,N,N,u-10,4
+Davis,Robert,M,2015-05-14,Beginner,Blue Ridge Soccer Park (South Houston),Elm Middle School,N,N,u-10,4
+Smith,Jennifer,M,2016-07-08,Very Good,Blue Ridge Soccer Park (South Houston),Magnolia High,N,Y,u-10,4
+Moore,Dorothy,M,2015-11-17,Average,West 288,Maple Middle School,N,N,u-10,4
+Williams,John,M,2016-05-17,Advanced,West 288,Oak Elementary,N,N,u-10,4
+Johnson,James,M,2015-11-25,Advanced,West 288,Pine High School,Y,Y,u-10,4
+Martinez,Charles,M,2015-04-11,Average,West 288,Redwood Preparatory,Y,N,u-10,4
+Moore,Dorothy,M,2015-12-03,Very Good,Silverlake/East 288,Sycamore Elementary,N,N,u-10,4
+Johnson,James,M,2015-05-26,Average,Blue Ridge Soccer Park (South Houston),Sycamore Elementary,Y,N,u-10,4
+Thomas,Joseph,M,2016-03-25,Advanced,West 288,Willow Elementary,N,N,u-10,4
+Jones,David,F,2016-02-15,Average,Far East,Aspen Charter School,N,N,u-10,5
+Miller,Joseph,F,2016-06-04,Beginner,Silverlake/East 288,Cedar Academy,N,N,u-10,5
+Davis,Margaret,F,2016-04-06,Very Good,Far East,Cypress School,N,N,u-10,5
+Garcia,Lisa,F,2015-09-13,Very Good,West 288,Elm Middle School,N,N,u-10,5
+Garcia,Susan,F,2015-06-21,Very Good,West 288,Magnolia High,N,N,u-10,5
+Lopez,Jennifer,F,2015-10-10,Very Good,West 288,Maple Middle School,Y,N,u-10,5
+Johnson,Richard,F,2015-03-09,Beginner,Silverlake/East 288,Oak Elementary,N,N,u-10,5
+Smith,Jennifer,F,2015-02-08,Advanced,West 288,Poplar Academy,N,N,u-10,5
+Brown,Charles,F,2015-10-10,Beginner,Far East,Spruce High,Y,N,u-10,5
+Williams,Dorothy,F,2014-10-16,Advanced,West 288,Sycamore Elementary,N,N,u-10,5
+Gonzalez,Barbara,F,2014-10-17,Advanced,Silverlake/East 288,Aspen Charter School,Y,N,u-10,6
+Thomas,Joseph,F,2015-06-17,Beginner,Silverlake/East 288,Chestnut Middle School,N,N,u-10,6
+Martinez,Susan,F,2016-07-26,Beginner,West 288,Cypress School,N,Y,u-10,6
+Jackson,Margaret,F,2015-04-29,Average,Hwy 6 South,Elm Middle School,N,N,u-10,6
+Smith,William,F,2015-07-02,Beginner,Silverlake/East 288,Magnolia High,N,N,u-10,6
+Moore,Elizabeth,F,2015-01-04,Very Good,West 288,Maple Middle School,N,N,u-10,6
+Anderson,Barbara,F,2016-07-23,Very Good,West 288,Pine High School,Y,N,u-10,6
+Brown,Joseph,F,2014-12-03,Beginner,Silverlake/East 288,Redwood Preparatory,N,Y,u-10,6
+Martin,David,F,2014-10-25,Average,West 288,Spruce High,N,Y,u-10,6
+Williams,Susan,F,2016-07-20,Average,Blue Ridge Soccer Park (South Houston),Willow Elementary,N,Y,u-10,6
+Lopez,John,F,2015-09-07,Average,Silverlake/East 288,Birch School,N,Y,u-10,7
+Rodriguez,Robert,F,2016-02-25,Average,West 288,Chestnut Middle School,N,N,u-10,7
+Jackson,Joseph,F,2014-10-11,Average,West 288,Cypress School,N,N,u-10,7
+Anderson,John,F,2016-04-02,Average,Hwy 6 South,Elm Middle School,N,N,u-10,7
+Garcia,Elizabeth,F,2015-11-24,Advanced,West 288,Magnolia High,N,N,u-10,7
+Taylor,Dorothy,F,2016-03-10,Beginner,West 288,Maple Middle School,Y,N,u-10,7
+Jackson,Mary,F,2015-06-23,Average,West 288,Pine High School,Y,N,u-10,7
+Jackson,Robert,F,2015-07-25,Average,West 288,Redwood Preparatory,N,N,u-10,7
+Martinez,Charles,F,2015-10-24,Advanced,Silverlake/East 288,Sycamore Elementary,N,N,u-10,7
+Rodriguez,John,F,2014-09-22,Advanced,West 288,Willow Elementary,N,N,u-10,7
+Miller,Mary,M,2012-12-05,Beginner,Silverlake/East 288,Aspen Charter School,Y,N,u-12,1
+Gonzalez,Thomas,M,2012-09-19,Advanced,West 288,Birch School,Y,Y,u-12,1
+Jackson,Jennifer,M,2012-09-01,Average,West 288,Cedar Academy,Y,N,u-12,1
+Rodriguez,Jennifer,M,2014-04-06,Average,West 288,Cypress School,N,N,u-12,1
+Davis,Thomas,M,2014-06-07,Beginner,Hwy 6 South,Elm Middle School,N,N,u-12,1
+Martinez,Patricia,M,2013-09-25,Very Good,West 288,Magnolia High,N,N,u-12,1
+Rodriguez,Lisa,M,2012-11-27,Beginner,Blue Ridge Soccer Park (South Houston),Maple Middle School,N,N,u-12,1
+Johnson,James,M,2014-06-16,Advanced,Silverlake/East 288,Maple Middle School,N,N,u-12,1
+Taylor,Linda,M,2013-04-15,Beginner,Silverlake/East 288,Oak Elementary,Y,Y,u-12,1
+Wilson,Charles,M,2014-07-13,Beginner,Silverlake/East 288,Redwood Preparatory,N,N,u-12,1
+Hernandez,Elizabeth,M,2013-08-31,Beginner,Silverlake/East 288,Spruce High,N,N,u-12,1
+Garcia,Patricia,M,2013-03-07,Advanced,Far East,Sycamore Elementary,N,N,u-12,1
+Johnson,Robert,M,2013-08-02,Beginner,Silverlake/East 288,Willow Elementary,N,N,u-12,1
+Davis,Susan,M,2013-03-03,Advanced,West 288,Willow Elementary,N,N,u-12,1
+Gonzalez,James,M,2013-09-27,Advanced,Silverlake/East 288,Aspen Charter School,Y,N,u-12,2
+Martinez,Mary,M,2014-05-09,Beginner,Hwy 6 South,Cedar Academy,N,N,u-12,2
+Rodriguez,Robert,M,2014-07-02,Advanced,Hwy 6 South,Chestnut Middle School,N,N,u-12,2
+Thomas,David,M,2013-10-09,Beginner,Blue Ridge Soccer Park (South Houston),Elm Middle School,N,N,u-12,2
+Moore,Jennifer,M,2013-01-05,Average,Silverlake/East 288,Elm Middle School,N,N,u-12,2
+Taylor,Margaret,M,2014-04-05,Average,Silverlake/East 288,Magnolia High,N,Y,u-12,2
+Martinez,William,M,2013-12-04,Advanced,Silverlake/East 288,Maple Middle School,N,N,u-12,2
+Brown,Barbara,M,2014-08-27,Very Good,Silverlake/East 288,Oak Elementary,N,N,u-12,2
+Brown,Dorothy,M,2014-07-04,Average,Blue Ridge Soccer Park (South Houston),Pine High School,N,N,u-12,2
+Hernandez,Elizabeth,M,2012-09-18,Average,Far East,Redwood Preparatory,Y,N,u-12,2
+Miller,Margaret,M,2014-03-22,Beginner,West 288,Spruce High,N,N,u-12,2
+Brown,Thomas,M,2013-01-14,Advanced,Silverlake/East 288,Sycamore Elementary,N,N,u-12,2
+Brown,Susan,M,2013-06-12,Beginner,West 288,Willow Elementary,N,N,u-12,2
+Garcia,Charles,M,2014-08-11,Beginner,Silverlake/East 288,Birch School,N,N,u-12,3
+Wilson,Jennifer,M,2013-06-27,Beginner,West 288,Cedar Academy,N,N,u-12,3
+Williams,Thomas,M,2013-09-10,Average,Silverlake/East 288,Cypress School,Y,N,u-12,3
+Rodriguez,John,M,2013-04-19,Beginner,Far East,Elm Middle School,N,Y,u-12,3
+Moore,Patricia,M,2013-08-30,Advanced,Silverlake/East 288,Elm Middle School,N,N,u-12,3
+Smith,Dorothy,M,2014-04-09,Advanced,West 288,Magnolia High,N,N,u-12,3
+Hernandez,Barbara,M,2013-12-08,Advanced,Silverlake/East 288,Maple Middle School,N,N,u-12,3
+Thomas,John,M,2013-03-05,Very Good,West 288,Oak Elementary,N,N,u-12,3
+Hernandez,Margaret,M,2013-04-10,Very Good,West 288,Poplar Academy,N,N,u-12,3
+Brown,William,M,2014-05-17,Beginner,Silverlake/East 288,Spruce High,N,Y,u-12,3
+Brown,James,M,2013-12-22,Beginner,West 288,Sycamore Elementary,N,Y,u-12,3
+Hernandez,Robert,M,2013-02-27,Very Good,Far East,Willow Elementary,Y,N,u-12,3
+Smith,John,M,2013-12-24,Advanced,Silverlake/East 288,Willow Elementary,N,N,u-12,3
+Jones,Elizabeth,F,2013-02-05,Beginner,Silverlake/East 288,Aspen Charter School,N,N,u-12,4
+Taylor,David,F,2013-12-14,Very Good,Silverlake/East 288,Birch School,N,Y,u-12,4
+Moore,Jennifer,F,2014-03-02,Beginner,Silverlake/East 288,Chestnut Middle School,N,Y,u-12,4
+Johnson,Lisa,F,2012-12-15,Average,Silverlake/East 288,Cypress School,N,N,u-12,4
+Brown,Linda,F,2012-12-29,Average,Blue Ridge Soccer Park (South Houston),Elm Middle School,N,N,u-12,4
+Martinez,Mary,F,2013-10-08,Average,West 288,Magnolia High,N,N,u-12,4
+Brown,James,F,2014-01-30,Very Good,Hwy 6 South,Maple Middle School,N,Y,u-12,4
+Thomas,John,F,2014-04-15,Advanced,West 288,Maple Middle School,Y,N,u-12,4
+Davis,Elizabeth,F,2014-04-27,Beginner,West 288,Oak Elementary,N,N,u-12,4
+Martinez,John,F,2014-06-04,Advanced,West 288,Pine High School,N,N,u-12,4
+Jones,Barbara,F,2013-12-06,Very Good,Far East,Redwood Preparatory,N,N,u-12,4
+Rodriguez,Susan,F,2014-03-05,Average,Silverlake/East 288,Spruce High,Y,N,u-12,4
+Jackson,Joseph,F,2013-01-21,Advanced,West 288,Sycamore Elementary,N,N,u-12,4
+Lopez,Jennifer,F,2013-05-19,Average,Silverlake/East 288,Aspen Charter School,N,N,u-12,5
+Brown,Joseph,F,2013-06-27,Advanced,Far East,Birch School,N,N,u-12,5
+Wilson,Mary,F,2012-10-06,Beginner,West 288,Chestnut Middle School,N,N,u-12,5
+Rodriguez,Elizabeth,F,2013-11-29,Average,West 288,Cypress School,N,N,u-12,5
+Lopez,William,F,2014-08-04,Advanced,Silverlake/East 288,Elm Middle School,N,N,u-12,5
+Gonzalez,Mary,F,2014-07-31,Average,West 288,Magnolia High,N,N,u-12,5
+Garcia,Mary,F,2014-05-17,Very Good,Silverlake/East 288,Maple Middle School,N,N,u-12,5
+Hernandez,Elizabeth,F,2013-11-09,Very Good,Hwy 6 South,Oak Elementary,N,N,u-12,5
+Garcia,John,F,2014-06-08,Beginner,Silverlake/East 288,Pine High School,N,N,u-12,5
+Miller,Lisa,F,2013-05-05,Very Good,Hwy 6 South,Poplar Academy,N,N,u-12,5
+Moore,Richard,F,2012-10-20,Advanced,West 288,Redwood Preparatory,N,N,u-12,5
+Anderson,Michael,F,2012-12-07,Average,Silverlake/East 288,Spruce High,N,N,u-12,5
+Davis,Mary,F,2013-10-21,Advanced,Blue Ridge Soccer Park (South Houston),Willow Elementary,N,N,u-12,5
+Davis,Dorothy,F,2013-03-31,Average,West 288,Aspen Charter School,N,Y,u-12,6
+Rodriguez,Margaret,F,2013-12-13,Advanced,West 288,Birch School,N,N,u-12,6
+Anderson,Joseph,F,2012-10-25,Beginner,West 288,Cypress School,N,N,u-12,6
+Brown,Margaret,F,2013-12-09,Advanced,West 288,Cypress School,N,Y,u-12,6
+Brown,Charles,F,2014-03-06,Very Good,Hwy 6 South,Magnolia High,Y,N,u-12,6
+Martin,Michael,F,2013-07-05,Advanced,Silverlake/East 288,Magnolia High,N,Y,u-12,6
+Brown,Barbara,F,2013-05-04,Average,Silverlake/East 288,Maple Middle School,N,N,u-12,6
+Martinez,Barbara,F,2014-03-11,Beginner,Silverlake/East 288,Oak Elementary,N,N,u-12,6
+Smith,Patricia,F,2013-10-09,Average,Silverlake/East 288,Pine High School,N,N,u-12,6
+Moore,Jennifer,F,2013-07-31,Average,West 288,Poplar Academy,N,N,u-12,6
+Lopez,Dorothy,F,2013-12-02,Average,Blue Ridge Soccer Park (South Houston),Spruce High,Y,N,u-12,6
+Williams,Charles,F,2013-06-04,Advanced,Silverlake/East 288,Sycamore Elementary,Y,N,u-12,6
+Brown,Jennifer,M,2012-07-20,Very Good,Silverlake/East 288,Aspen Charter School,N,N,u-14,1
+Davis,Robert,M,2011-04-26,Average,Far East,Birch School,N,N,u-14,1
+Martin,Barbara,M,2012-07-18,Very Good,West 288,Cedar Academy,N,N,u-14,1
+Rodriguez,Mary,M,2011-06-18,Beginner,Silverlake/East 288,Chestnut Middle School,Y,N,u-14,1
+Miller,Lisa,M,2012-07-14,Beginner,Silverlake/East 288,Cypress School,N,N,u-14,1
+Anderson,Charles,M,2010-11-15,Advanced,Far East,Elm Middle School,N,N,u-14,1
+Garcia,Thomas,M,2011-06-06,Beginner,Blue Ridge Soccer Park (South Houston),Maple Middle School,N,N,u-14,1
+Miller,Dorothy,M,2012-08-09,Advanced,Silverlake/East 288,Maple Middle School,N,N,u-14,1
+Hernandez,Barbara,M,2010-09-23,Advanced,Silverlake/East 288,Oak Elementary,N,N,u-14,1
+Miller,Michael,M,2011-08-20,Advanced,West 288,Pine High School,Y,Y,u-14,1
+Brown,Michael,M,2010-10-14,Beginner,Far East,Spruce High,N,N,u-14,1
+Garcia,David,M,2011-12-20,Average,Hwy 6 South,Sycamore Elementary,N,Y,u-14,1
+Jones,Thomas,M,2011-12-12,Advanced,West 288,Sycamore Elementary,N,N,u-14,1
+Anderson,Patricia,M,2010-12-02,Average,Silverlake/East 288,Willow Elementary,N,N,u-14,1
+Rodriguez,John,M,2010-12-15,Advanced,West 288,Aspen Charter School,N,N,u-14,2
+Hernandez,David,M,2011-05-25,Average,Silverlake/East 288,Birch School,N,N,u-14,2
+Rodriguez,Barbara,M,2011-01-03,Average,Blue Ridge Soccer Park (South Houston),Cedar Academy,N,N,u-14,2
+Hernandez,Charles,M,2012-07-11,Beginner,West 288,Chestnut Middle School,N,N,u-14,2
+Williams,Margaret,M,2012-04-09,Very Good,West 288,Elm Middle School,N,Y,u-14,2
+Jackson,Thomas,M,2010-10-13,Advanced,Hwy 6 South,Elm Middle School,Y,N,u-14,2
+Martin,James,M,2011-11-01,Beginner,West 288,Maple Middle School,N,N,u-14,2
+Brown,William,M,2011-03-06,Very Good,West 288,Oak Elementary,Y,N,u-14,2
+Davis,Robert,M,2012-02-17,Very Good,Blue Ridge Soccer Park (South Houston),Pine High School,N,N,u-14,2
+Taylor,William,M,2012-06-02,Average,Far East,Redwood Preparatory,N,Y,u-14,2
+Johnson,Susan,M,2011-10-15,Beginner,Hwy 6 South,Spruce High,N,N,u-14,2
+Smith,Mary,M,2011-10-24,Advanced,Silverlake/East 288,Sycamore Elementary,N,N,u-14,2
+Davis,Barbara,M,2012-04-28,Very Good,Silverlake/East 288,Willow Elementary,N,N,u-14,2
+Smith,Robert,M,2012-07-03,Advanced,Silverlake/East 288,Willow Elementary,N,N,u-14,2
+Martinez,David,M,2011-09-24,Very Good,Hwy 6 South,Birch School,N,N,u-14,3
+Martinez,Richard,M,2012-08-19,Average,Silverlake/East 288,Birch School,N,N,u-14,3
+Wilson,Thomas,M,2011-10-09,Advanced,Silverlake/East 288,Cedar Academy,N,N,u-14,3
+Smith,Susan,M,2010-12-12,Average,Silverlake/East 288,Chestnut Middle School,N,N,u-14,3
+Williams,Jennifer,M,2011-06-15,Average,Silverlake/East 288,Elm Middle School,N,N,u-14,3
+Taylor,Elizabeth,M,2012-05-04,Very Good,West 288,Magnolia High,Y,N,u-14,3
+Jones,Susan,M,2012-08-03,Advanced,Silverlake/East 288,Maple Middle School,N,N,u-14,3
+Jones,Robert,M,2011-03-07,Advanced,Blue Ridge Soccer Park (South Houston),Oak Elementary,Y,N,u-14,3
+Anderson,Charles,M,2011-10-19,Average,Silverlake/East 288,Pine High School,N,N,u-14,3
+Garcia,Susan,M,2011-10-14,Very Good,Silverlake/East 288,Spruce High,N,Y,u-14,3
+Moore,Thomas,M,2012-08-28,Beginner,West 288,Spruce High,N,N,u-14,3
+Jones,John,M,2012-03-01,Advanced,Silverlake/East 288,Sycamore Elementary,N,N,u-14,3
+Anderson,Dorothy,M,2011-10-17,Beginner,West 288,Willow Elementary,Y,N,u-14,3
+Wilson,Richard,F,2011-07-12,Very Good,Blue Ridge Soccer Park (South Houston),Aspen Charter School,N,N,u-14,4
+Anderson,Dorothy,F,2011-10-23,Beginner,Hwy 6 South,Chestnut Middle School,N,N,u-14,4
+Jones,James,F,2011-09-03,Average,Blue Ridge Soccer Park (South Houston),Cypress School,Y,N,u-14,4
+Martin,Richard,F,2011-06-16,Advanced,West 288,Cypress School,N,N,u-14,4
+Thomas,Dorothy,F,2012-06-04,Beginner,West 288,Elm Middle School,N,N,u-14,4
+Wilson,Elizabeth,F,2011-03-08,Very Good,Silverlake/East 288,Magnolia High,N,N,u-14,4
+Smith,John,F,2012-04-21,Advanced,Silverlake/East 288,Magnolia High,N,N,u-14,4
+Brown,Joseph,F,2011-05-29,Very Good,West 288,Maple Middle School,N,N,u-14,4
+Rodriguez,Lisa,F,2011-09-15,Advanced,Blue Ridge Soccer Park (South Houston),Maple Middle School,N,N,u-14,4
+Taylor,Mary,F,2012-08-24,Very Good,Silverlake/East 288,Oak Elementary,N,Y,u-14,4
+Smith,Linda,F,2011-10-23,Very Good,Silverlake/East 288,Pine High School,N,Y,u-14,4
+Rodriguez,William,F,2011-08-27,Average,Silverlake/East 288,Spruce High,N,N,u-14,4
+Wilson,Barbara,F,2011-09-03,Advanced,West 288,Sycamore Elementary,N,N,u-14,4
+Davis,Susan,F,2011-11-28,Beginner,West 288,Willow Elementary,Y,N,u-14,4
+Williams,Barbara,F,2012-05-26,Beginner,Far East,Birch School,Y,N,u-14,5
+Rodriguez,Margaret,F,2011-10-05,Advanced,Silverlake/East 288,Chestnut Middle School,N,N,u-14,5
+Williams,Charles,F,2012-02-02,Average,Silverlake/East 288,Cypress School,N,N,u-14,5
+Wilson,Jennifer,F,2011-02-02,Beginner,West 288,Elm Middle School,N,N,u-14,5
+Jones,Barbara,F,2011-03-20,Average,West 288,Elm Middle School,N,N,u-14,5
+Jackson,William,F,2012-02-21,Average,Far East,Magnolia High,N,Y,u-14,5
+Brown,Richard,F,2012-06-06,Very Good,Silverlake/East 288,Maple Middle School,N,N,u-14,5
+Taylor,Joseph,F,2011-04-29,Beginner,Silverlake/East 288,Maple Middle School,Y,N,u-14,5
+Wilson,Thomas,F,2012-07-24,Advanced,Silverlake/East 288,Maple Middle School,Y,N,u-14,5
+Rodriguez,John,F,2012-01-06,Beginner,Far East,Oak Elementary,N,N,u-14,5
+Jackson,John,F,2012-02-06,Very Good,West 288,Pine High School,N,N,u-14,5
+Smith,William,F,2012-02-29,Beginner,Blue Ridge Soccer Park (South Houston),Sycamore Elementary,N,N,u-14,5
+Davis,David,F,2010-10-11,Very Good,Silverlake/East 288,Willow Elementary,N,Y,u-14,5
+Johnson,Joseph,F,2012-03-15,Advanced,Silverlake/East 288,Willow Elementary,Y,N,u-14,5
+Taylor,Charles,F,2012-01-24,Beginner,West 288,Cedar Academy,N,N,u-14,6
+Smith,Lisa,F,2010-12-13,Beginner,Silverlake/East 288,Cypress School,N,N,u-14,6
+Taylor,Susan,F,2010-09-23,Average,West 288,Cypress School,N,Y,u-14,6
+Taylor,Robert,F,2012-06-03,Beginner,West 288,Elm Middle School,N,N,u-14,6
+Miller,William,F,2011-02-06,Very Good,Blue Ridge Soccer Park (South Houston),Magnolia High,N,N,u-14,6
+Thomas,Lisa,F,2011-03-14,Average,West 288,Magnolia High,Y,N,u-14,6
+Martinez,Mary,F,2011-04-25,Very Good,West 288,Maple Middle School,N,N,u-14,6
+Martin,Patricia,F,2011-08-18,Average,Silverlake/East 288,Maple Middle School,N,N,u-14,6
+Anderson,William,F,2012-08-17,Advanced,Silverlake/East 288,Maple Middle School,Y,N,u-14,6
+Martinez,Elizabeth,F,2012-02-01,Average,Silverlake/East 288,Oak Elementary,N,N,u-14,6
+Rodriguez,Joseph,F,2011-10-20,Average,Far East,Pine High School,N,N,u-14,6
+Jackson,Jennifer,F,2012-08-26,Beginner,Silverlake/East 288,Sycamore Elementary,N,N,u-14,6
+Jones,Michael,F,2011-12-16,Very Good,Silverlake/East 288,Willow Elementary,N,N,u-14,6
+Jones,Barbara,M,2010-05-30,Beginner,Blue Ridge Soccer Park (South Houston),Aspen Charter School,N,Y,u-16,1
+Brown,William,M,2009-10-12,Advanced,Far East,Aspen Charter School,N,N,u-16,1
+Anderson,Michael,M,2010-06-29,Average,Silverlake/East 288,Birch School,N,Y,u-16,1
+Hernandez,Joseph,M,2009-06-29,Average,West 288,Chestnut Middle School,N,N,u-16,1
+Moore,Susan,M,2009-07-07,Average,Blue Ridge Soccer Park (South Houston),Elm Middle School,N,N,u-16,1
+Johnson,Mary,M,2008-11-30,Beginner,West 288,Maple Middle School,N,N,u-16,1
+Jones,David,M,2010-02-26,Advanced,Hwy 6 South,Maple Middle School,Y,Y,u-16,1
+Garcia,John,M,2010-02-26,Very Good,Silverlake/East 288,Pine High School,N,N,u-16,1
+Johnson,Patricia,M,2010-04-16,Advanced,West 288,Pine High School,N,N,u-16,1
+Moore,Linda,M,2010-08-30,Advanced,Hwy 6 South,Poplar Academy,N,Y,u-16,1
+Martinez,Linda,M,2009-08-02,Average,Blue Ridge Soccer Park (South Houston),Spruce High,N,N,u-16,1
+Anderson,Robert,M,2009-07-01,Average,West 288,Sycamore Elementary,N,N,u-16,1
+Thomas,Elizabeth,M,2010-06-22,Beginner,West 288,Willow Elementary,N,N,u-16,1
+Miller,Jennifer,M,2009-01-06,Average,West 288,Willow Elementary,N,N,u-16,1
+Moore,Joseph,M,2010-05-15,Beginner,West 288,Aspen Charter School,N,N,u-16,2
+Jackson,Barbara,M,2009-05-03,Very Good,Hwy 6 South,Birch School,N,N,u-16,2
+Moore,Elizabeth,M,2009-07-23,Average,West 288,Cedar Academy,Y,N,u-16,2
+Garcia,Thomas,M,2009-10-02,Advanced,West 288,Chestnut Middle School,N,N,u-16,2
+Rodriguez,Linda,M,2008-12-01,Very Good,Hwy 6 South,Magnolia High,N,Y,u-16,2
+Wilson,Lisa,M,2009-09-26,Beginner,West 288,Maple Middle School,N,N,u-16,2
+Jones,Thomas,M,2008-11-21,Very Good,Silverlake/East 288,Oak Elementary,Y,Y,u-16,2
+Martin,Linda,M,2009-08-28,Beginner,Silverlake/East 288,Pine High School,N,N,u-16,2
+Gonzalez,Richard,M,2008-11-01,Beginner,Hwy 6 South,Poplar Academy,N,Y,u-16,2
+Jones,William,M,2009-08-27,Beginner,West 288,Redwood Preparatory,N,N,u-16,2
+Wilson,Dorothy,M,2010-06-25,Very Good,West 288,Sycamore Elementary,N,N,u-16,2
+Rodriguez,Linda,M,2009-09-30,Advanced,Silverlake/East 288,Sycamore Elementary,N,Y,u-16,2
+Gonzalez,Charles,M,2009-07-16,Average,Silverlake/East 288,Willow Elementary,Y,N,u-16,2
+Miller,Susan,M,2009-12-31,Advanced,Silverlake/East 288,Willow Elementary,N,N,u-16,2
+Davis,David,M,2010-04-29,Average,West 288,Aspen Charter School,Y,Y,u-16,3
+Anderson,William,M,2008-12-17,Very Good,Silverlake/East 288,Birch School,N,Y,u-16,3
+Brown,Barbara,M,2010-05-19,Beginner,West 288,Chestnut Middle School,N,N,u-16,3
+Wilson,David,M,2010-08-27,Average,Silverlake/East 288,Cypress School,Y,N,u-16,3
+Wilson,Jennifer,M,2008-10-27,Very Good,Far East,Maple Middle School,N,N,u-16,3
+Rodriguez,Richard,M,2009-05-26,Average,Blue Ridge Soccer Park (South Houston),Maple Middle School,N,N,u-16,3
+Jackson,Joseph,M,2009-11-07,Average,West 288,Oak Elementary,N,N,u-16,3
+Martin,Margaret,M,2009-03-28,Beginner,West 288,Pine High School,N,N,u-16,3
+Gonzalez,Jennifer,M,2010-06-22,Beginner,West 288,Poplar Academy,Y,Y,u-16,3
+Williams,Susan,M,2009-03-29,Advanced,Hwy 6 South,Redwood Preparatory,Y,N,u-16,3
+Jackson,David,M,2010-04-12,Average,Hwy 6 South,Sycamore Elementary,N,N,u-16,3
+Rodriguez,Margaret,M,2009-12-17,Very Good,Hwy 6 South,Willow Elementary,N,Y,u-16,3
+Garcia,Lisa,M,2009-11-01,Average,Silverlake/East 288,Willow Elementary,N,N,u-16,3
+Moore,Linda,F,2010-01-16,Very Good,Far East,Aspen Charter School,N,N,u-16,4
+Hernandez,David,F,2009-04-02,Advanced,West 288,Aspen Charter School,N,N,u-16,4
+Miller,William,F,2009-10-22,Advanced,Silverlake/East 288,Birch School,N,N,u-16,4
+Davis,Dorothy,F,2010-06-01,Average,West 288,Cedar Academy,N,N,u-16,4
+Miller,William,F,2010-05-08,Advanced,West 288,Cedar Academy,Y,N,u-16,4
+Thomas,Joseph,F,2009-12-03,Beginner,Silverlake/East 288,Elm Middle School,Y,N,u-16,4
+Hernandez,Mary,F,2010-02-13,Average,West 288,Magnolia High,Y,N,u-16,4
+Miller,Lisa,F,2009-08-04,Advanced,West 288,Maple Middle School,N,N,u-16,4
+Lopez,Margaret,F,2010-01-12,Beginner,West 288,Oak Elementary,N,N,u-16,4
+Lopez,Susan,F,2010-06-10,Very Good,Silverlake/East 288,Pine High School,N,N,u-16,4
+Johnson,Richard,F,2009-10-14,Advanced,Silverlake/East 288,Pine High School,N,N,u-16,4
+Thomas,Jennifer,F,2009-01-17,Advanced,Blue Ridge Soccer Park (South Houston),Poplar Academy,N,N,u-16,4
+Williams,Dorothy,F,2010-03-23,Very Good,West 288,Spruce High,N,N,u-16,4
+Moore,Charles,F,2009-12-16,Average,West 288,Spruce High,N,N,u-16,4
+Garcia,James,F,2009-05-24,Very Good,West 288,Aspen Charter School,N,N,u-16,5
+Miller,Barbara,F,2009-04-17,Beginner,Blue Ridge Soccer Park (South Houston),Birch School,Y,N,u-16,5
+Martin,Thomas,F,2010-05-18,Very Good,West 288,Cedar Academy,Y,N,u-16,5
+Anderson,Charles,F,2009-01-22,Advanced,Silverlake/East 288,Cedar Academy,N,N,u-16,5
+Garcia,Barbara,F,2010-01-05,Average,West 288,Chestnut Middle School,N,N,u-16,5
+Hernandez,Jennifer,F,2009-09-20,Beginner,Silverlake/East 288,Elm Middle School,N,Y,u-16,5
+Gonzalez,Thomas,F,2010-07-30,Average,West 288,Magnolia High,Y,N,u-16,5
+Johnson,James,F,2010-07-11,Advanced,West 288,Maple Middle School,N,N,u-16,5
+Williams,Susan,F,2009-11-24,Average,Silverlake/East 288,Oak Elementary,N,N,u-16,5
+Anderson,Mary,F,2008-11-21,Beginner,Blue Ridge Soccer Park (South Houston),Pine High School,N,N,u-16,5
+Williams,Thomas,F,2010-03-07,Beginner,Far East,Poplar Academy,Y,N,u-16,5
+Johnson,Elizabeth,F,2010-01-16,Beginner,West 288,Redwood Preparatory,N,N,u-16,5
+Williams,Lisa,F,2010-06-11,Beginner,Far East,Spruce High,N,N,u-16,5
+Jackson,Thomas,F,2009-07-03,Advanced,West 288,Spruce High,N,N,u-16,5
+Smith,James,F,2009-11-10,Beginner,West 288,Aspen Charter School,N,N,u-16,6
+Davis,David,F,2009-09-19,Average,Hwy 6 South,Birch School,N,N,u-16,6
+Lopez,David,F,2009-03-11,Average,West 288,Cedar Academy,N,N,u-16,6
+Anderson,Barbara,F,2010-02-02,Advanced,Silverlake/East 288,Cedar Academy,N,N,u-16,6
+Miller,Dorothy,F,2009-02-08,Beginner,West 288,Cypress School,N,N,u-16,6
+Smith,Thomas,F,2009-11-18,Beginner,Silverlake/East 288,Magnolia High,N,N,u-16,6
+Hernandez,Robert,F,2009-07-17,Advanced,Blue Ridge Soccer Park (South Houston),Magnolia High,N,Y,u-16,6
+Thomas,Margaret,F,2009-02-11,Beginner,Silverlake/East 288,Oak Elementary,N,N,u-16,6
+Martin,Lisa,F,2010-02-04,Very Good,Far East,Pine High School,N,N,u-16,6
+Martin,David,F,2008-10-17,Beginner,West 288,Pine High School,N,Y,u-16,6
+Garcia,Mary,F,2009-02-22,Average,Far East,Poplar Academy,N,N,u-16,6
+Martin,Elizabeth,F,2010-02-16,Average,Hwy 6 South,Redwood Preparatory,N,N,u-16,6
+Williams,Linda,F,2009-04-03,Average,Far East,Spruce High,Y,N,u-16,6
+Jones,David,F,2009-06-13,Very Good,Hwy 6 South,Willow Elementary,N,N,u-16,6
+Williams,Michael,M,2008-05-11,Advanced,Silverlake/East 288,Cedar Academy,N,N,u-18,1
+Lopez,Michael,M,2008-03-16,Beginner,West 288,Chestnut Middle School,N,Y,u-18,1
+Garcia,James,M,2008-04-20,Beginner,West 288,Chestnut Middle School,N,N,u-18,1
+Martinez,Barbara,M,2007-12-11,Average,West 288,Chestnut Middle School,N,N,u-18,1
+Jackson,Patricia,M,2008-08-14,Advanced,Silverlake/East 288,Cypress School,N,N,u-18,1
+Thomas,Thomas,M,2007-10-20,Advanced,Silverlake/East 288,Maple Middle School,N,N,u-18,1
+Johnson,James,M,2008-05-14,Average,Blue Ridge Soccer Park (South Houston),Oak Elementary,N,N,u-18,1
+Miller,Barbara,M,2007-10-11,Average,Silverlake/East 288,Oak Elementary,N,Y,u-18,1
+Thomas,Michael,M,2007-09-27,Advanced,Silverlake/East 288,Poplar Academy,Y,N,u-18,1
+Jones,William,M,2008-02-25,Advanced,West 288,Poplar Academy,N,N,u-18,1
+Jones,Thomas,M,2008-08-22,Average,Silverlake/East 288,Redwood Preparatory,N,N,u-18,1
+Moore,Linda,M,2008-03-13,Average,Silverlake/East 288,Sycamore Elementary,N,N,u-18,1
+Smith,Linda,F,2008-04-12,Beginner,West 288,Aspen Charter School,N,N,u-18,2
+Williams,Elizabeth,F,2008-05-15,Very Good,Blue Ridge Soccer Park (South Houston),Birch School,N,N,u-18,2
+Brown,Michael,F,2008-02-26,Very Good,Far East,Elm Middle School,N,Y,u-18,2
+Lopez,Michael,F,2007-10-23,Advanced,West 288,Elm Middle School,N,N,u-18,2
+Davis,Robert,F,2008-01-22,Beginner,Silverlake/East 288,Magnolia High,N,N,u-18,2
+Martinez,James,F,2007-11-02,Average,West 288,Magnolia High,N,N,u-18,2
+Taylor,Lisa,F,2008-03-27,Very Good,Silverlake/East 288,Oak Elementary,N,N,u-18,2
+Jones,Margaret,F,2008-05-14,Beginner,West 288,Redwood Preparatory,N,N,u-18,2
+Smith,Lisa,F,2008-07-21,Beginner,Far East,Spruce High,N,N,u-18,2
+Rodriguez,Margaret,F,2008-03-24,Advanced,Far East,Willow Elementary,N,N,u-18,2
+Rodriguez,Barbara,F,2007-12-27,Advanced,West 288,Willow Elementary,N,N,u-18,2
